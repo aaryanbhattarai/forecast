@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Monthly_Sales,Time,Price ($),Stock_Level,Promotion
+181,Yoga Mat,Fitness Equipment,35,2025-07,25,58,No
+182,Dumbbells,Fitness Equipment,28,2025-07,45,44,Yes
+183,Resistance Bands,Fitness Equipment,33,2025-07,15,50,No
+184,Jump Rope,Fitness Equipment,12,2025-07,10,16,No
+185,Foam Roller,Fitness Equipment,13,2025-07,25,19,Yes

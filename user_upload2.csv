@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Monthly_Sales,Time,Price ($),Stock_Level,Promotion
+81,Screen Protector,Electronics,72,2025-07,9,110,No
+82,Laptop Cooler,Electronics,35,2025-07,35,50,Yes
+83,Keyboard Cover,Electronics,29,2025-07,12,33,No
+84,Mouse Pad,Electronics,22,2025-07,7,29,Yes
+85,Stylus Pen,Electronics,26,2025-07,27,35,Yes

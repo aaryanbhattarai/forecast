@@ -1,0 +1,1345 @@
+Product_ID,Product_Name,Category,Monthly_Sales,Time,Price ($),Stock_Level,Promotion
+1,Blender,Home Appliances,30,2025-01,89,48,No
+1,Blender,Home Appliances,35,2025-02,71,39,Yes
+1,Blender,Home Appliances,16,2025-03,89,22,No
+1,Blender,Home Appliances,35,2025-04,89,55,No
+1,Blender,Home Appliances,18,2025-05,71,25,Yes
+1,Blender,Home Appliances,30,2025-06,89,45,No
+2,Microwave,Home Appliances,42,2025-01,119,65,Yes
+2,Microwave,Home Appliances,33,2025-02,149,43,No
+2,Microwave,Home Appliances,38,2025-03,149,64,No
+2,Microwave,Home Appliances,33,2025-04,149,55,No
+2,Microwave,Home Appliances,38,2025-05,119,50,Yes
+2,Microwave,Home Appliances,42,2025-06,149,69,No
+3,Air Fryer,Home Appliances,13,2025-01,99,19,No
+3,Air Fryer,Home Appliances,22,2025-02,99,34,No
+3,Air Fryer,Home Appliances,7,2025-03,99,9,No
+3,Air Fryer,Home Appliances,15,2025-04,79,21,Yes
+3,Air Fryer,Home Appliances,19,2025-05,99,30,No
+3,Air Fryer,Home Appliances,7,2025-06,79,9,Yes
+4,Toaster,Home Appliances,8,2025-01,49,11,No
+4,Toaster,Home Appliances,13,2025-02,39,18,Yes
+4,Toaster,Home Appliances,24,2025-03,39,36,Yes
+4,Toaster,Home Appliances,12,2025-04,49,20,No
+4,Toaster,Home Appliances,10,2025-05,49,16,No
+4,Toaster,Home Appliances,18,2025-06,49,24,No
+5,Coffee Maker,Home Appliances,33,2025-01,63,57,Yes
+5,Coffee Maker,Home Appliances,38,2025-02,63,61,Yes
+5,Coffee Maker,Home Appliances,22,2025-03,79,29,No
+5,Coffee Maker,Home Appliances,32,2025-04,79,48,No
+5,Coffee Maker,Home Appliances,29,2025-05,79,46,No
+5,Coffee Maker,Home Appliances,29,2025-06,79,48,No
+6,Food Processor,Home Appliances,35,2025-01,129,52,No
+6,Food Processor,Home Appliances,33,2025-02,129,49,No
+6,Food Processor,Home Appliances,50,2025-03,129,74,No
+6,Food Processor,Home Appliances,36,2025-04,129,48,No
+6,Food Processor,Home Appliances,37,2025-05,103,56,Yes
+6,Food Processor,Home Appliances,50,2025-06,103,83,Yes
+7,Stand Mixer,Home Appliances,35,2025-01,199,56,No
+7,Stand Mixer,Home Appliances,33,2025-02,199,54,No
+7,Stand Mixer,Home Appliances,21,2025-03,199,29,No
+7,Stand Mixer,Home Appliances,29,2025-04,199,47,No
+7,Stand Mixer,Home Appliances,16,2025-05,159,24,Yes
+7,Stand Mixer,Home Appliances,26,2025-06,159,38,Yes
+8,Electric Kettle,Home Appliances,31,2025-01,31,42,Yes
+8,Electric Kettle,Home Appliances,27,2025-02,39,43,No
+8,Electric Kettle,Home Appliances,14,2025-03,39,19,No
+8,Electric Kettle,Home Appliances,32,2025-04,31,48,Yes
+8,Electric Kettle,Home Appliances,26,2025-05,39,39,No
+8,Electric Kettle,Home Appliances,17,2025-06,39,25,No
+9,Rice Cooker,Home Appliances,5,2025-01,47,8,Yes
+9,Rice Cooker,Home Appliances,5,2025-02,59,8,No
+9,Rice Cooker,Home Appliances,5,2025-03,59,7,No
+9,Rice Cooker,Home Appliances,13,2025-04,47,21,Yes
+9,Rice Cooker,Home Appliances,11,2025-05,59,16,No
+9,Rice Cooker,Home Appliances,5,2025-06,59,8,No
+10,Slow Cooker,Home Appliances,28,2025-01,69,50,No
+10,Slow Cooker,Home Appliances,27,2025-02,55,40,Yes
+10,Slow Cooker,Home Appliances,38,2025-03,69,57,No
+10,Slow Cooker,Home Appliances,25,2025-04,69,33,No
+10,Slow Cooker,Home Appliances,37,2025-05,55,63,Yes
+10,Slow Cooker,Home Appliances,32,2025-06,69,50,No
+11,Juicer,Home Appliances,41,2025-01,39,58,Yes
+11,Juicer,Home Appliances,33,2025-02,49,43,No
+11,Juicer,Home Appliances,35,2025-03,49,46,No
+11,Juicer,Home Appliances,36,2025-04,49,62,No
+11,Juicer,Home Appliances,24,2025-05,39,38,Yes
+11,Juicer,Home Appliances,32,2025-06,49,54,No
+12,Griddle,Home Appliances,37,2025-01,79,58,No
+12,Griddle,Home Appliances,33,2025-02,79,52,No
+12,Griddle,Home Appliances,48,2025-03,79,63,No
+12,Griddle,Home Appliances,49,2025-04,79,83,No
+12,Griddle,Home Appliances,36,2025-05,63,54,Yes
+12,Griddle,Home Appliances,40,2025-06,63,64,Yes
+13,Sandwich Press,Home Appliances,45,2025-01,71,75,Yes
+13,Sandwich Press,Home Appliances,28,2025-02,89,39,No
+13,Sandwich Press,Home Appliances,34,2025-03,89,44,No
+13,Sandwich Press,Home Appliances,30,2025-04,89,44,No
+13,Sandwich Press,Home Appliances,30,2025-05,71,51,Yes
+13,Sandwich Press,Home Appliances,34,2025-06,89,58,No
+14,Waffle Maker,Home Appliances,17,2025-01,47,28,Yes
+14,Waffle Maker,Home Appliances,9,2025-02,59,15,No
+14,Waffle Maker,Home Appliances,16,2025-03,59,25,No
+14,Waffle Maker,Home Appliances,13,2025-04,59,19,No
+14,Waffle Maker,Home Appliances,5,2025-05,47,7,Yes
+14,Waffle Maker,Home Appliances,5,2025-06,59,7,No
+15,Pressure Cooker,Home Appliances,29,2025-01,95,43,Yes
+15,Pressure Cooker,Home Appliances,26,2025-02,119,37,No
+15,Pressure Cooker,Home Appliances,22,2025-03,95,31,Yes
+15,Pressure Cooker,Home Appliances,19,2025-04,119,32,No
+15,Pressure Cooker,Home Appliances,26,2025-05,119,41,No
+15,Pressure Cooker,Home Appliances,21,2025-06,119,37,No
+16,Bread Machine,Home Appliances,50,2025-01,149,69,No
+16,Bread Machine,Home Appliances,49,2025-02,119,79,Yes
+16,Bread Machine,Home Appliances,39,2025-03,149,51,No
+16,Bread Machine,Home Appliances,39,2025-04,149,68,No
+16,Bread Machine,Home Appliances,42,2025-05,119,59,Yes
+16,Bread Machine,Home Appliances,50,2025-06,149,79,No
+17,Ice Cream Maker,Home Appliances,5,2025-01,129,7,No
+17,Ice Cream Maker,Home Appliances,19,2025-02,129,25,No
+17,Ice Cream Maker,Home Appliances,7,2025-03,129,12,No
+17,Ice Cream Maker,Home Appliances,12,2025-04,103,18,Yes
+17,Ice Cream Maker,Home Appliances,10,2025-05,103,14,Yes
+17,Ice Cream Maker,Home Appliances,12,2025-06,129,16,No
+18,Deep Fryer,Home Appliances,28,2025-01,71,32,Yes
+18,Deep Fryer,Home Appliances,14,2025-02,89,20,No
+18,Deep Fryer,Home Appliances,12,2025-03,71,16,Yes
+18,Deep Fryer,Home Appliances,9,2025-04,89,15,No
+18,Deep Fryer,Home Appliances,6,2025-05,89,10,No
+18,Deep Fryer,Home Appliances,5,2025-06,89,6,No
+19,Indoor Grill,Home Appliances,23,2025-01,149,32,No
+19,Indoor Grill,Home Appliances,28,2025-02,119,41,Yes
+19,Indoor Grill,Home Appliances,38,2025-03,119,66,Yes
+19,Indoor Grill,Home Appliances,26,2025-04,149,42,No
+19,Indoor Grill,Home Appliances,27,2025-05,149,44,No
+19,Indoor Grill,Home Appliances,32,2025-06,149,47,No
+20,Food Steamer,Home Appliances,20,2025-01,59,28,No
+20,Food Steamer,Home Appliances,12,2025-02,47,16,Yes
+20,Food Steamer,Home Appliances,21,2025-03,59,34,No
+20,Food Steamer,Home Appliances,18,2025-04,47,26,Yes
+20,Food Steamer,Home Appliances,28,2025-05,59,48,No
+20,Food Steamer,Home Appliances,18,2025-06,59,23,No
+21,Dehydrator,Home Appliances,42,2025-01,99,62,No
+21,Dehydrator,Home Appliances,38,2025-02,79,63,Yes
+21,Dehydrator,Home Appliances,50,2025-03,99,82,No
+21,Dehydrator,Home Appliances,45,2025-04,99,62,No
+21,Dehydrator,Home Appliances,50,2025-05,99,71,No
+21,Dehydrator,Home Appliances,43,2025-06,79,63,Yes
+22,Pasta Maker,Home Appliances,30,2025-01,79,53,No
+22,Pasta Maker,Home Appliances,22,2025-02,63,31,Yes
+22,Pasta Maker,Home Appliances,25,2025-03,79,37,No
+22,Pasta Maker,Home Appliances,38,2025-04,63,62,Yes
+22,Pasta Maker,Home Appliances,36,2025-05,79,56,No
+22,Pasta Maker,Home Appliances,29,2025-06,79,44,No
+23,Yogurt Maker,Home Appliances,41,2025-01,39,63,Yes
+23,Yogurt Maker,Home Appliances,33,2025-02,49,47,No
+23,Yogurt Maker,Home Appliances,46,2025-03,49,63,No
+23,Yogurt Maker,Home Appliances,47,2025-04,39,79,Yes
+23,Yogurt Maker,Home Appliances,41,2025-05,49,73,No
+23,Yogurt Maker,Home Appliances,50,2025-06,49,75,No
+24,Electric Skillet,Home Appliances,25,2025-01,55,39,Yes
+24,Electric Skillet,Home Appliances,30,2025-02,69,40,No
+24,Electric Skillet,Home Appliances,39,2025-03,69,58,No
+24,Electric Skillet,Home Appliances,27,2025-04,69,42,No
+24,Electric Skillet,Home Appliances,27,2025-05,69,37,No
+24,Electric Skillet,Home Appliances,27,2025-06,55,43,Yes
+25,Hot Plate,Home Appliances,40,2025-01,31,67,Yes
+25,Hot Plate,Home Appliances,50,2025-02,39,77,No
+25,Hot Plate,Home Appliances,44,2025-03,39,61,No
+25,Hot Plate,Home Appliances,39,2025-04,31,66,Yes
+25,Hot Plate,Home Appliances,50,2025-05,39,85,No
+25,Hot Plate,Home Appliances,47,2025-06,39,84,No
+26,Can Opener,Home Appliances,38,2025-01,15,66,Yes
+26,Can Opener,Home Appliances,36,2025-02,19,64,No
+26,Can Opener,Home Appliances,33,2025-03,19,43,No
+26,Can Opener,Home Appliances,47,2025-04,19,69,No
+26,Can Opener,Home Appliances,30,2025-05,19,41,No
+26,Can Opener,Home Appliances,36,2025-06,15,60,Yes
+27,Popcorn Maker,Home Appliances,43,2025-01,29,61,No
+27,Popcorn Maker,Home Appliances,33,2025-02,29,57,No
+27,Popcorn Maker,Home Appliances,47,2025-03,29,68,No
+27,Popcorn Maker,Home Appliances,37,2025-04,23,49,Yes
+27,Popcorn Maker,Home Appliances,42,2025-05,23,57,Yes
+27,Popcorn Maker,Home Appliances,37,2025-06,29,52,No
+28,Hand Blender,Home Appliances,18,2025-01,31,28,Yes
+28,Hand Blender,Home Appliances,30,2025-02,39,40,No
+28,Hand Blender,Home Appliances,32,2025-03,39,56,No
+28,Hand Blender,Home Appliances,26,2025-04,39,35,No
+28,Hand Blender,Home Appliances,24,2025-05,39,33,No
+28,Hand Blender,Home Appliances,16,2025-06,31,24,Yes
+29,Sous Vide Cooker,Home Appliances,5,2025-01,199,7,No
+29,Sous Vide Cooker,Home Appliances,17,2025-02,199,22,No
+29,Sous Vide Cooker,Home Appliances,5,2025-03,159,7,Yes
+29,Sous Vide Cooker,Home Appliances,13,2025-04,159,18,Yes
+29,Sous Vide Cooker,Home Appliances,5,2025-05,199,8,No
+29,Sous Vide Cooker,Home Appliances,5,2025-06,199,8,No
+30,Toaster Oven,Home Appliances,33,2025-01,129,46,No
+30,Toaster Oven,Home Appliances,35,2025-02,129,52,No
+30,Toaster Oven,Home Appliances,39,2025-03,103,68,Yes
+30,Toaster Oven,Home Appliances,28,2025-04,103,45,Yes
+30,Toaster Oven,Home Appliances,36,2025-05,129,47,No
+30,Toaster Oven,Home Appliances,39,2025-06,129,69,No
+31,Coffee Grinder,Home Appliances,23,2025-01,49,36,No
+31,Coffee Grinder,Home Appliances,24,2025-02,49,40,No
+31,Coffee Grinder,Home Appliances,34,2025-03,39,58,Yes
+31,Coffee Grinder,Home Appliances,34,2025-04,49,56,No
+31,Coffee Grinder,Home Appliances,22,2025-05,49,36,No
+31,Coffee Grinder,Home Appliances,35,2025-06,39,57,Yes
+32,Meat Grinder,Home Appliances,23,2025-01,71,36,Yes
+32,Meat Grinder,Home Appliances,24,2025-02,89,37,No
+32,Meat Grinder,Home Appliances,17,2025-03,89,23,No
+32,Meat Grinder,Home Appliances,25,2025-04,89,44,No
+32,Meat Grinder,Home Appliances,23,2025-05,71,33,Yes
+32,Meat Grinder,Home Appliances,21,2025-06,89,33,No
+33,Vacuum Sealer,Home Appliances,35,2025-01,119,46,No
+33,Vacuum Sealer,Home Appliances,28,2025-02,119,38,No
+33,Vacuum Sealer,Home Appliances,24,2025-03,119,40,No
+33,Vacuum Sealer,Home Appliances,20,2025-04,95,28,Yes
+33,Vacuum Sealer,Home Appliances,19,2025-05,95,27,Yes
+33,Vacuum Sealer,Home Appliances,25,2025-06,119,44,No
+34,Cotton Candy Machine,Home Appliances,48,2025-01,149,66,No
+34,Cotton Candy Machine,Home Appliances,33,2025-02,149,57,No
+34,Cotton Candy Machine,Home Appliances,43,2025-03,119,75,Yes
+34,Cotton Candy Machine,Home Appliances,35,2025-04,149,46,No
+34,Cotton Candy Machine,Home Appliances,46,2025-05,149,78,No
+34,Cotton Candy Machine,Home Appliances,35,2025-06,119,53,Yes
+35,Food Scale,Home Appliances,47,2025-01,29,71,No
+35,Food Scale,Home Appliances,44,2025-02,23,74,Yes
+35,Food Scale,Home Appliances,41,2025-03,29,67,No
+35,Food Scale,Home Appliances,40,2025-04,29,62,No
+35,Food Scale,Home Appliances,30,2025-05,23,47,Yes
+35,Food Scale,Home Appliances,32,2025-06,29,44,No
+36,Electric Knife,Home Appliances,20,2025-01,49,34,No
+36,Electric Knife,Home Appliances,18,2025-02,49,28,No
+36,Electric Knife,Home Appliances,21,2025-03,49,31,No
+36,Electric Knife,Home Appliances,11,2025-04,39,14,Yes
+36,Electric Knife,Home Appliances,5,2025-05,49,7,No
+36,Electric Knife,Home Appliances,11,2025-06,39,17,Yes
+37,Rice Dispenser,Home Appliances,9,2025-01,39,14,No
+37,Rice Dispenser,Home Appliances,5,2025-02,39,7,No
+37,Rice Dispenser,Home Appliances,12,2025-03,39,16,No
+37,Rice Dispenser,Home Appliances,7,2025-04,31,9,Yes
+37,Rice Dispenser,Home Appliances,6,2025-05,31,8,Yes
+37,Rice Dispenser,Home Appliances,14,2025-06,39,19,No
+38,Wine Cooler,Home Appliances,41,2025-01,299,57,No
+38,Wine Cooler,Home Appliances,50,2025-02,299,71,No
+38,Wine Cooler,Home Appliances,30,2025-03,299,48,No
+38,Wine Cooler,Home Appliances,42,2025-04,239,73,Yes
+38,Wine Cooler,Home Appliances,37,2025-05,239,59,Yes
+38,Wine Cooler,Home Appliances,40,2025-06,299,57,No
+39,Beverage Cooler,Home Appliances,15,2025-01,159,25,Yes
+39,Beverage Cooler,Home Appliances,18,2025-02,199,28,No
+39,Beverage Cooler,Home Appliances,21,2025-03,199,35,No
+39,Beverage Cooler,Home Appliances,22,2025-04,199,33,No
+39,Beverage Cooler,Home Appliances,9,2025-05,159,12,Yes
+39,Beverage Cooler,Home Appliances,16,2025-06,199,27,No
+40,Countertop Dishwasher,Home Appliances,42,2025-01,349,68,No
+40,Countertop Dishwasher,Home Appliances,37,2025-02,279,63,Yes
+40,Countertop Dishwasher,Home Appliances,38,2025-03,349,57,No
+40,Countertop Dishwasher,Home Appliances,46,2025-04,349,81,No
+40,Countertop Dishwasher,Home Appliances,41,2025-05,349,65,No
+40,Countertop Dishwasher,Home Appliances,41,2025-06,279,54,Yes
+41,Portable Washer,Home Appliances,23,2025-01,249,40,No
+41,Portable Washer,Home Appliances,38,2025-02,199,67,Yes
+41,Portable Washer,Home Appliances,20,2025-03,249,28,No
+41,Portable Washer,Home Appliances,23,2025-04,249,35,No
+41,Portable Washer,Home Appliances,29,2025-05,249,40,No
+41,Portable Washer,Home Appliances,36,2025-06,199,64,Yes
+42,Garment Steamer,Home Appliances,12,2025-01,63,20,Yes
+42,Garment Steamer,Home Appliances,27,2025-02,79,38,No
+42,Garment Steamer,Home Appliances,10,2025-03,79,13,No
+42,Garment Steamer,Home Appliances,27,2025-04,63,42,Yes
+42,Garment Steamer,Home Appliances,18,2025-05,79,30,No
+42,Garment Steamer,Home Appliances,27,2025-06,79,42,No
+43,Air Purifier,Home Appliances,28,2025-01,119,43,Yes
+43,Air Purifier,Home Appliances,32,2025-02,149,48,No
+43,Air Purifier,Home Appliances,27,2025-03,149,45,No
+43,Air Purifier,Home Appliances,36,2025-04,119,57,Yes
+43,Air Purifier,Home Appliances,37,2025-05,149,65,No
+43,Air Purifier,Home Appliances,36,2025-06,149,52,No
+44,Humidifier,Home Appliances,5,2025-01,89,6,No
+44,Humidifier,Home Appliances,18,2025-02,71,25,Yes
+44,Humidifier,Home Appliances,9,2025-03,71,12,Yes
+44,Humidifier,Home Appliances,14,2025-04,89,23,No
+44,Humidifier,Home Appliances,5,2025-05,89,7,No
+44,Humidifier,Home Appliances,5,2025-06,89,7,No
+45,Robot Vacuum,Home Appliances,50,2025-01,299,66,No
+45,Robot Vacuum,Home Appliances,49,2025-02,299,86,No
+45,Robot Vacuum,Home Appliances,32,2025-03,239,51,Yes
+45,Robot Vacuum,Home Appliances,34,2025-04,299,60,No
+45,Robot Vacuum,Home Appliances,46,2025-05,299,69,No
+45,Robot Vacuum,Home Appliances,34,2025-06,239,57,Yes
+46,Wireless Earbuds,Electronics,53,2025-01,79,76,No
+46,Wireless Earbuds,Electronics,53,2025-02,79,78,No
+46,Wireless Earbuds,Electronics,56,2025-03,63,87,Yes
+46,Wireless Earbuds,Electronics,61,2025-04,79,87,No
+46,Wireless Earbuds,Electronics,54,2025-05,63,79,Yes
+46,Wireless Earbuds,Electronics,55,2025-06,79,87,No
+47,Bluetooth Speaker,Electronics,11,2025-01,59,16,No
+47,Bluetooth Speaker,Electronics,24,2025-02,59,30,No
+47,Bluetooth Speaker,Electronics,10,2025-03,59,15,No
+47,Bluetooth Speaker,Electronics,26,2025-04,47,33,Yes
+47,Bluetooth Speaker,Electronics,25,2025-05,47,37,Yes
+47,Bluetooth Speaker,Electronics,22,2025-06,59,28,No
+48,Smart Watch,Electronics,36,2025-01,199,44,No
+48,Smart Watch,Electronics,31,2025-02,199,43,No
+48,Smart Watch,Electronics,32,2025-03,159,40,Yes
+48,Smart Watch,Electronics,28,2025-04,159,41,Yes
+48,Smart Watch,Electronics,36,2025-05,199,56,No
+48,Smart Watch,Electronics,28,2025-06,199,34,No
+49,Tablet,Electronics,17,2025-01,239,23,Yes
+49,Tablet,Electronics,10,2025-02,299,13,No
+49,Tablet,Electronics,14,2025-03,299,20,No
+49,Tablet,Electronics,21,2025-04,299,28,No
+49,Tablet,Electronics,10,2025-05,239,13,Yes
+49,Tablet,Electronics,17,2025-06,299,24,No
+50,Mechanical Keyboard,Electronics,54,2025-01,89,81,No
+50,Mechanical Keyboard,Electronics,45,2025-02,71,62,Yes
+50,Mechanical Keyboard,Electronics,45,2025-03,71,65,Yes
+50,Mechanical Keyboard,Electronics,52,2025-04,89,63,No
+50,Mechanical Keyboard,Electronics,42,2025-05,89,61,No
+50,Mechanical Keyboard,Electronics,57,2025-06,89,84,No
+51,Wireless Mouse,Electronics,41,2025-01,39,50,No
+51,Wireless Mouse,Electronics,41,2025-02,31,54,Yes
+51,Wireless Mouse,Electronics,33,2025-03,31,50,Yes
+51,Wireless Mouse,Electronics,45,2025-04,39,57,No
+51,Wireless Mouse,Electronics,46,2025-05,39,65,No
+51,Wireless Mouse,Electronics,43,2025-06,39,59,No
+52,Webcam,Electronics,31,2025-01,39,49,Yes
+52,Webcam,Electronics,30,2025-02,49,41,No
+52,Webcam,Electronics,34,2025-03,49,44,No
+52,Webcam,Electronics,39,2025-04,49,50,No
+52,Webcam,Electronics,38,2025-05,49,48,No
+52,Webcam,Electronics,23,2025-06,39,34,Yes
+53,Headphones,Electronics,72,2025-01,99,87,No
+53,Headphones,Electronics,75,2025-02,99,99,No
+53,Headphones,Electronics,68,2025-03,79,83,Yes
+53,Headphones,Electronics,65,2025-04,79,79,Yes
+53,Headphones,Electronics,76,2025-05,99,119,No
+53,Headphones,Electronics,65,2025-06,99,92,No
+54,External SSD,Electronics,13,2025-01,129,17,No
+54,External SSD,Electronics,32,2025-02,129,49,No
+54,External SSD,Electronics,20,2025-03,103,24,Yes
+54,External SSD,Electronics,15,2025-04,129,20,No
+54,External SSD,Electronics,18,2025-05,129,28,No
+54,External SSD,Electronics,27,2025-06,103,39,Yes
+55,Power Bank,Electronics,14,2025-01,29,19,No
+55,Power Bank,Electronics,24,2025-02,29,34,No
+55,Power Bank,Electronics,14,2025-03,29,19,No
+55,Power Bank,Electronics,26,2025-04,23,34,Yes
+55,Power Bank,Electronics,19,2025-05,29,27,No
+55,Power Bank,Electronics,23,2025-06,23,36,Yes
+56,USB Hub,Electronics,61,2025-01,19,79,No
+56,USB Hub,Electronics,57,2025-02,19,85,No
+56,USB Hub,Electronics,59,2025-03,15,91,Yes
+56,USB Hub,Electronics,46,2025-04,15,64,Yes
+56,USB Hub,Electronics,50,2025-05,19,61,No
+56,USB Hub,Electronics,60,2025-06,19,76,No
+57,Monitor,Electronics,40,2025-01,159,60,Yes
+57,Monitor,Electronics,27,2025-02,159,38,Yes
+57,Monitor,Electronics,35,2025-03,199,48,No
+57,Monitor,Electronics,42,2025-04,199,54,No
+57,Monitor,Electronics,40,2025-05,199,55,No
+57,Monitor,Electronics,34,2025-06,199,53,No
+58,VR Headset,Electronics,13,2025-01,299,19,No
+58,VR Headset,Electronics,12,2025-02,299,19,No
+58,VR Headset,Electronics,15,2025-03,239,23,Yes
+58,VR Headset,Electronics,24,2025-04,299,33,No
+58,VR Headset,Electronics,10,2025-05,299,13,No
+58,VR Headset,Electronics,24,2025-06,239,36,Yes
+59,Fitness Tracker,Electronics,10,2025-01,103,13,Yes
+59,Fitness Tracker,Electronics,12,2025-02,129,18,No
+59,Fitness Tracker,Electronics,19,2025-03,129,29,No
+59,Fitness Tracker,Electronics,22,2025-04,129,29,No
+59,Fitness Tracker,Electronics,20,2025-05,129,30,No
+59,Fitness Tracker,Electronics,25,2025-06,103,38,Yes
+60,E-Reader,Electronics,28,2025-01,95,41,Yes
+60,E-Reader,Electronics,9,2025-02,95,49,Yes
+60,E-Reader,Electronics,24,2025-03,119,36,No
+60,E-Reader,Electronics,33,2025-04,119,42,No
+60,E-Reader,Electronics,30,2025-05,119,42,No
+60,E-Reader,Electronics,28,2025-06,119,33,No
+61,Dash Cam,Electronics,12,2025-01,89,57,No
+61,Dash Cam,Electronics,34,2025-02,71,52,Yes
+61,Dash Cam,Electronics,30,2025-03,89,45,No
+61,Dash Cam,Electronics,27,2025-04,71,42,Yes
+61,Dash Cam,Electronics,42,2025-05,89,62,No
+61,Dash Cam,Electronics,43,2025-06,89,61,No
+62,Action Camera,Electronics,59,2025-01,199,71,No
+62,Action Camera,Electronics,51,2025-02,159,73,Yes
+62,Action Camera,Electronics,61,2025-03,199,90,No
+62,Action Camera,Electronics,51,2025-04,199,76,No
+62,Action Camera,Electronics,61,2025-05,199,94,No
+62,Action Camera,Electronics,62,2025-06,159,95,Yes
+63,Printer,Electronics,29,2025-01,149,38,No
+63,Printer,Electronics,25,2025-02,149,31,No
+63,Printer,Electronics,22,2025-03,149,29,No
+63,Printer,Electronics,30,2025-04,149,46,No
+63,Printer,Electronics,27,2025-05,119,34,Yes
+63,Printer,Electronics,26,2025-06,119,39,Yes
+64,Document Scanner,Electronics,20,2025-01,129,29,No
+64,Document Scanner,Electronics,21,2025-02,103,26,Yes
+64,Document Scanner,Electronics,10,2025-03,129,15,No
+64,Document Scanner,Electronics,14,2025-04,103,21,Yes
+64,Document Scanner,Electronics,25,2025-05,129,31,No
+64,Document Scanner,Electronics,10,2025-06,129,13,No
+65,Projector,Electronics,75,2025-01,279,91,Yes
+65,Projector,Electronics,70,2025-02,349,104,No
+65,Projector,Electronics,66,2025-03,349,89,No
+65,Projector,Electronics,66,2025-04,349,100,No
+65,Projector,Electronics,76,2025-05,279,92,Yes
+65,Projector,Electronics,63,2025-06,349,99,No
+66,Drawing Tablet,Electronics,58,2025-01,159,75,Yes
+66,Drawing Tablet,Electronics,60,2025-02,199,85,No
+66,Drawing Tablet,Electronics,50,2025-03,159,77,Yes
+66,Drawing Tablet,Electronics,52,2025-04,199,68,No
+66,Drawing Tablet,Electronics,67,2025-05,199,83,No
+66,Drawing Tablet,Electronics,53,2025-06,199,80,No
+67,Microphone,Electronics,38,2025-01,59,57,No
+67,Microphone,Electronics,31,2025-02,59,46,No
+67,Microphone,Electronics,46,2025-03,47,61,Yes
+67,Microphone,Electronics,34,2025-04,59,42,No
+67,Microphone,Electronics,39,2025-05,59,47,No
+67,Microphone,Electronics,30,2025-06,47,42,Yes
+68,WiFi Router,Electronics,43,2025-01,89,60,No
+68,WiFi Router,Electronics,46,2025-02,89,64,No
+68,WiFi Router,Electronics,46,2025-03,89,66,No
+68,WiFi Router,Electronics,47,2025-04,71,59,Yes
+68,WiFi Router,Electronics,50,2025-05,89,74,No
+68,WiFi Router,Electronics,50,2025-06,71,62,Yes
+69,Smart Plug,Electronics,58,2025-01,19,72,No
+69,Smart Plug,Electronics,61,2025-02,15,96,Yes
+69,Smart Plug,Electronics,55,2025-03,19,71,No
+69,Smart Plug,Electronics,62,2025-04,15,83,Yes
+69,Smart Plug,Electronics,61,2025-05,19,88,No
+69,Smart Plug,Electronics,61,2025-06,19,94,No
+70,Digital Frame,Electronics,44,2025-01,79,60,No
+70,Digital Frame,Electronics,25,2025-02,63,37,Yes
+70,Digital Frame,Electronics,41,2025-03,79,60,No
+70,Digital Frame,Electronics,37,2025-04,79,45,No
+70,Digital Frame,Electronics,40,2025-05,79,55,No
+70,Digital Frame,Electronics,43,2025-06,63,62,Yes
+71,Wireless Charger,Electronics,74,2025-01,23,107,Yes
+71,Wireless Charger,Electronics,66,2025-02,29,105,No
+71,Wireless Charger,Electronics,77,2025-03,29,106,No
+71,Wireless Charger,Electronics,68,2025-04,29,103,No
+71,Wireless Charger,Electronics,72,2025-05,23,103,Yes
+71,Wireless Charger,Electronics,77,2025-06,29,98,No
+72,Phone Stand,Electronics,80,2025-01,15,101,No
+72,Phone Stand,Electronics,70,2025-02,12,91,Yes
+72,Phone Stand,Electronics,73,2025-03,12,108,Yes
+72,Phone Stand,Electronics,79,2025-04,15,117,No
+72,Phone Stand,Electronics,80,2025-05,15,127,No
+72,Phone Stand,Electronics,79,2025-06,15,114,No
+73,Car Charger,Electronics,30,2025-01,20,44,Yes
+73,Car Charger,Electronics,29,2025-02,25,44,No
+73,Car Charger,Electronics,31,2025-03,25,42,No
+73,Car Charger,Electronics,44,2025-04,25,53,No
+73,Car Charger,Electronics,35,2025-05,25,52,No
+73,Car Charger,Electronics,40,2025-06,20,50,Yes
+74,HDMI Cable,Electronics,27,2025-01,12,34,No
+74,HDMI Cable,Electronics,34,2025-02,9,49,Yes
+74,HDMI Cable,Electronics,38,2025-03,9,50,Yes
+74,HDMI Cable,Electronics,40,2025-04,12,50,No
+74,HDMI Cable,Electronics,30,2025-05,12,44,No
+74,HDMI Cable,Electronics,25,2025-06,12,35,No
+75,Smart Bulb,Electronics,29,2025-01,15,45,Yes
+75,Smart Bulb,Electronics,46,2025-02,15,57,Yes
+75,Smart Bulb,Electronics,40,2025-03,19,51,No
+75,Smart Bulb,Electronics,38,2025-04,19,59,No
+75,Smart Bulb,Electronics,47,2025-05,19,56,No
+75,Smart Bulb,Electronics,30,2025-06,19,43,No
+76,Gaming Headset,Electronics,17,2025-01,89,26,No
+76,Gaming Headset,Electronics,23,2025-02,89,34,No
+76,Gaming Headset,Electronics,28,2025-03,71,42,Yes
+76,Gaming Headset,Electronics,32,2025-04,89,43,No
+76,Gaming Headset,Electronics,30,2025-05,71,38,Yes
+76,Gaming Headset,Electronics,22,2025-06,89,28,No
+77,Controller,Electronics,25,2025-01,59,32,No
+77,Controller,Electronics,17,2025-02,59,23,No
+77,Controller,Electronics,18,2025-03,47,27,Yes
+77,Controller,Electronics,34,2025-04,59,50,No
+77,Controller,Electronics,28,2025-05,59,41,No
+77,Controller,Electronics,24,2025-06,47,31,Yes
+78,Digital Notepad,Electronics,19,2025-01,149,26,No
+78,Digital Notepad,Electronics,23,2025-02,149,30,No
+78,Digital Notepad,Electronics,10,2025-03,119,15,Yes
+78,Digital Notepad,Electronics,12,2025-04,119,15,Yes
+78,Digital Notepad,Electronics,10,2025-05,149,14,No
+78,Digital Notepad,Electronics,18,2025-06,149,23,No
+79,Voice Recorder,Electronics,20,2025-01,49,25,No
+79,Voice Recorder,Electronics,21,2025-02,39,30,Yes
+79,Voice Recorder,Electronics,13,2025-03,39,19,Yes
+79,Voice Recorder,Electronics,17,2025-04,49,23,No
+79,Voice Recorder,Electronics,13,2025-05,49,17,No
+79,Voice Recorder,Electronics,17,2025-06,49,24,No
+80,Earbud Case,Electronics,24,2025-01,15,36,No
+80,Earbud Case,Electronics,19,2025-02,15,27,No
+80,Earbud Case,Electronics,18,2025-03,12,28,Yes
+80,Earbud Case,Electronics,28,2025-04,12,43,Yes
+80,Earbud Case,Electronics,38,2025-05,15,55,No
+80,Earbud Case,Electronics,36,2025-06,15,44,No
+81,Screen Protector,Electronics,80,2025-01,7,96,Yes
+81,Screen Protector,Electronics,80,2025-02,7,115,Yes
+81,Screen Protector,Electronics,71,2025-03,9,105,No
+81,Screen Protector,Electronics,73,2025-04,9,102,No
+81,Screen Protector,Electronics,70,2025-05,9,92,No
+81,Screen Protector,Electronics,70,2025-06,9,106,No
+82,Laptop Cooler,Electronics,47,2025-01,39,60,No
+82,Laptop Cooler,Electronics,49,2025-02,31,73,Yes
+82,Laptop Cooler,Electronics,43,2025-03,39,59,No
+82,Laptop Cooler,Electronics,31,2025-04,39,44,No
+82,Laptop Cooler,Electronics,39,2025-05,39,47,No
+82,Laptop Cooler,Electronics,33,2025-06,31,52,Yes
+83,Keyboard Cover,Electronics,27,2025-01,9,36,Yes
+83,Keyboard Cover,Electronics,22,2025-02,12,34,No
+83,Keyboard Cover,Electronics,20,2025-03,9,26,Yes
+83,Keyboard Cover,Electronics,27,2025-04,12,42,No
+83,Keyboard Cover,Electronics,24,2025-05,12,35,No
+83,Keyboard Cover,Electronics,28,2025-06,12,35,No
+84,Mouse Pad,Electronics,37,2025-01,8,48,No
+84,Mouse Pad,Electronics,26,2025-02,6,35,Yes
+84,Mouse Pad,Electronics,18,2025-03,6,25,Yes
+84,Mouse Pad,Electronics,21,2025-04,8,31,No
+84,Mouse Pad,Electronics,24,2025-05,8,36,No
+84,Mouse Pad,Electronics,21,2025-06,8,30,No
+85,Stylus Pen,Electronics,36,2025-01,29,54,No
+85,Stylus Pen,Electronics,21,2025-02,29,27,No
+85,Stylus Pen,Electronics,17,2025-03,23,22,Yes
+85,Stylus Pen,Electronics,17,2025-04,23,24,Yes
+85,Stylus Pen,Electronics,32,2025-05,29,41,No
+85,Stylus Pen,Electronics,21,2025-06,29,28,No
+86,Smart Display,Electronics,45,2025-01,199,65,No
+86,Smart Display,Electronics,47,2025-02,199,58,No
+86,Smart Display,Electronics,53,2025-03,159,66,Yes
+86,Smart Display,Electronics,52,2025-04,199,70,No
+86,Smart Display,Electronics,48,2025-05,199,71,No
+86,Smart Display,Electronics,51,2025-06,159,74,Yes
+87,Streaming Stick,Electronics,28,2025-01,31,39,Yes
+87,Streaming Stick,Electronics,30,2025-02,39,42,No
+87,Streaming Stick,Electronics,38,2025-03,31,49,Yes
+87,Streaming Stick,Electronics,39,2025-04,39,52,No
+87,Streaming Stick,Electronics,22,2025-05,39,33,No
+87,Streaming Stick,Electronics,31,2025-06,39,38,No
+88,Satellite Speaker,Electronics,45,2025-01,129,67,No
+88,Satellite Speaker,Electronics,63,2025-02,103,79,Yes
+88,Satellite Speaker,Electronics,43,2025-03,103,54,Yes
+88,Satellite Speaker,Electronics,58,2025-04,129,85,No
+88,Satellite Speaker,Electronics,46,2025-05,129,58,No
+88,Satellite Speaker,Electronics,50,2025-06,129,64,No
+89,Soundbar,Electronics,65,2025-01,199,101,No
+89,Soundbar,Electronics,58,2025-02,159,83,Yes
+89,Soundbar,Electronics,53,2025-03,199,81,No
+89,Soundbar,Electronics,70,2025-04,199,90,No
+89,Soundbar,Electronics,54,2025-05,159,77,Yes
+89,Soundbar,Electronics,60,2025-06,199,85,No
+90,Record Player,Electronics,50,2025-01,119,72,Yes
+90,Record Player,Electronics,51,2025-02,149,71,No
+90,Record Player,Electronics,52,2025-03,119,75,Yes
+90,Record Player,Electronics,44,2025-04,149,66,No
+90,Record Player,Electronics,49,2025-05,149,59,No
+90,Record Player,Electronics,45,2025-06,149,68,No
+91,Organic Pasta,Groceries,155,2025-01,4,365,No
+91,Organic Pasta,Groceries,135,2025-02,3,278,Yes
+91,Organic Pasta,Groceries,144,2025-03,4,301,No
+91,Organic Pasta,Groceries,149,2025-04,4,241,No
+91,Organic Pasta,Groceries,153,2025-05,4,342,No
+91,Organic Pasta,Groceries,137,2025-06,3,236,Yes
+92,Olive Oil,Groceries,150,2025-01,12,271,No
+92,Olive Oil,Groceries,144,2025-02,12,350,No
+92,Olive Oil,Groceries,140,2025-03,12,267,No
+92,Olive Oil,Groceries,153,2025-04,9,235,Yes
+92,Olive Oil,Groceries,155,2025-05,9,240,Yes
+92,Olive Oil,Groceries,146,2025-06,12,287,No
+93,Granola,Groceries,54,2025-01,4,132,Yes
+93,Granola,Groceries,59,2025-02,5,121,No
+93,Granola,Groceries,58,2025-03,5,133,No
+93,Granola,Groceries,69,2025-04,5,118,No
+93,Granola,Groceries,70,2025-05,4,167,Yes
+93,Granola,Groceries,65,2025-06,5,128,No
+94,Quinoa,Groceries,85,2025-01,4,201,Yes
+94,Quinoa,Groceries,94,2025-02,6,226,No
+94,Quinoa,Groceries,96,2025-03,6,194,No
+94,Quinoa,Groceries,89,2025-04,6,154,No
+94,Quinoa,Groceries,96,2025-05,6,223,No
+94,Quinoa,Groceries,88,2025-06,4,189,Yes
+95,Honey,Groceries,57,2025-01,6,117,Yes
+95,Honey,Groceries,57,2025-02,8,121,No
+95,Honey,Groceries,59,2025-03,8,141,No
+95,Honey,Groceries,50,2025-04,8,115,No
+95,Honey,Groceries,64,2025-05,6,149,Yes
+95,Honey,Groceries,53,2025-06,8,82,No
+96,Maple Syrup,Groceries,53,2025-01,8,95,Yes
+96,Maple Syrup,Groceries,55,2025-02,8,97,Yes
+96,Maple Syrup,Groceries,56,2025-03,10,139,No
+96,Maple Syrup,Groceries,67,2025-04,10,126,No
+96,Maple Syrup,Groceries,67,2025-05,10,121,No
+96,Maple Syrup,Groceries,56,2025-06,10,138,No
+97,Almond Butter,Groceries,88,2025-01,7,197,Yes
+97,Almond Butter,Groceries,90,2025-02,7,184,Yes
+97,Almond Butter,Groceries,79,2025-03,9,194,No
+97,Almond Butter,Groceries,91,2025-04,9,201,No
+97,Almond Butter,Groceries,94,2025-05,9,163,No
+97,Almond Butter,Groceries,79,2025-06,9,176,No
+98,Coconut Oil,Groceries,158,2025-01,7,278,No
+98,Coconut Oil,Groceries,157,2025-02,5,329,Yes
+98,Coconut Oil,Groceries,153,2025-03,5,304,Yes
+98,Coconut Oil,Groceries,159,2025-04,7,351,No
+98,Coconut Oil,Groceries,164,2025-05,7,295,No
+98,Coconut Oil,Groceries,161,2025-06,7,385,No
+99,Balsamic Vinegar,Groceries,102,2025-01,6,216,No
+99,Balsamic Vinegar,Groceries,106,2025-02,6,206,No
+99,Balsamic Vinegar,Groceries,113,2025-03,6,218,No
+99,Balsamic Vinegar,Groceries,94,2025-04,6,146,No
+99,Balsamic Vinegar,Groceries,110,2025-05,4,191,Yes
+99,Balsamic Vinegar,Groceries,109,2025-06,4,205,Yes
+100,Sea Salt,Groceries,106,2025-01,3,263,No
+100,Sea Salt,Groceries,96,2025-02,3,175,No
+100,Sea Salt,Groceries,109,2025-03,3,210,No
+100,Sea Salt,Groceries,105,2025-04,2,178,Yes
+100,Sea Salt,Groceries,98,2025-05,3,210,No
+100,Sea Salt,Groceries,104,2025-06,2,179,Yes
+101,Black Pepper,Groceries,53,2025-01,3,114,Yes
+101,Black Pepper,Groceries,64,2025-02,4,128,No
+101,Black Pepper,Groceries,61,2025-03,3,123,Yes
+101,Black Pepper,Groceries,59,2025-04,4,125,No
+101,Black Pepper,Groceries,56,2025-05,4,89,No
+101,Black Pepper,Groceries,68,2025-06,4,103,No
+102,Dried Herbs,Groceries,122,2025-01,2,186,Yes
+102,Dried Herbs,Groceries,113,2025-02,3,227,No
+102,Dried Herbs,Groceries,122,2025-03,3,188,No
+102,Dried Herbs,Groceries,123,2025-04,3,269,No
+102,Dried Herbs,Groceries,125,2025-05,2,205,Yes
+102,Dried Herbs,Groceries,112,2025-06,3,220,No
+103,Spice Mix,Groceries,88,2025-01,5,135,No
+103,Spice Mix,Groceries,85,2025-02,5,128,No
+103,Spice Mix,Groceries,84,2025-03,5,142,No
+103,Spice Mix,Groceries,80,2025-04,4,190,Yes
+103,Spice Mix,Groceries,94,2025-05,5,167,No
+103,Spice Mix,Groceries,76,2025-06,4,173,Yes
+104,Tea Bags,Groceries,190,2025-01,3,454,Yes
+104,Tea Bags,Groceries,200,2025-02,4,317,No
+104,Tea Bags,Groceries,200,2025-03,4,303,No
+104,Tea Bags,Groceries,200,2025-04,3,447,Yes
+104,Tea Bags,Groceries,189,2025-05,4,306,No
+104,Tea Bags,Groceries,200,2025-06,4,354,No
+105,Coffee Beans,Groceries,146,2025-01,9,351,No
+105,Coffee Beans,Groceries,133,2025-02,7,292,Yes
+105,Coffee Beans,Groceries,132,2025-03,9,240,No
+105,Coffee Beans,Groceries,145,2025-04,9,296,No
+105,Coffee Beans,Groceries,134,2025-05,7,267,Yes
+105,Coffee Beans,Groceries,139,2025-06,9,310,No
+106,Protein Bars,Groceries,113,2025-01,9,178,Yes
+106,Protein Bars,Groceries,117,2025-02,12,186,No
+106,Protein Bars,Groceries,120,2025-03,12,195,No
+106,Protein Bars,Groceries,106,2025-04,12,165,No
+106,Protein Bars,Groceries,121,2025-05,12,266,No
+106,Protein Bars,Groceries,118,2025-06,9,265,Yes
+107,Dried Fruit,Groceries,107,2025-01,7,199,No
+107,Dried Fruit,Groceries,123,2025-02,5,198,Yes
+107,Dried Fruit,Groceries,113,2025-03,5,253,Yes
+107,Dried Fruit,Groceries,119,2025-04,7,191,No
+107,Dried Fruit,Groceries,122,2025-05,7,256,No
+107,Dried Fruit,Groceries,113,2025-06,7,226,No
+108,Mixed Nuts,Groceries,199,2025-01,10,351,No
+108,Mixed Nuts,Groceries,200,2025-02,10,347,No
+108,Mixed Nuts,Groceries,193,2025-03,8,299,Yes
+108,Mixed Nuts,Groceries,187,2025-04,8,448,Yes
+108,Mixed Nuts,Groceries,196,2025-05,10,456,No
+108,Mixed Nuts,Groceries,198,2025-06,10,384,No
+109,Rice Cakes,Groceries,68,2025-01,3,156,No
+109,Rice Cakes,Groceries,69,2025-02,3,107,No
+109,Rice Cakes,Groceries,78,2025-03,2,121,Yes
+109,Rice Cakes,Groceries,69,2025-04,2,153,Yes
+109,Rice Cakes,Groceries,80,2025-05,3,196,No
+109,Rice Cakes,Groceries,67,2025-06,3,131,No
+110,Crackers,Groceries,182,2025-01,3,444,Yes
+110,Crackers,Groceries,163,2025-02,4,404,No
+110,Crackers,Groceries,173,2025-03,4,371,No
+110,Crackers,Groceries,181,2025-04,4,418,No
+110,Crackers,Groceries,175,2025-05,4,406,No
+110,Crackers,Groceries,177,2025-06,3,297,Yes
+111,Jam,Groceries,192,2025-01,5,386,No
+111,Jam,Groceries,197,2025-02,4,341,Yes
+111,Jam,Groceries,178,2025-03,5,443,No
+111,Jam,Groceries,190,2025-04,4,463,Yes
+111,Jam,Groceries,194,2025-05,5,414,No
+111,Jam,Groceries,194,2025-06,5,415,No
+112,Peanut Butter,Groceries,85,2025-01,5,180,No
+112,Peanut Butter,Groceries,85,2025-02,5,135,No
+112,Peanut Butter,Groceries,90,2025-03,5,146,No
+112,Peanut Butter,Groceries,77,2025-04,4,131,Yes
+112,Peanut Butter,Groceries,90,2025-05,5,137,No
+112,Peanut Butter,Groceries,77,2025-06,4,147,Yes
+113,Canned Tomatoes,Groceries,128,2025-01,2,192,No
+113,Canned Tomatoes,Groceries,120,2025-02,2,204,No
+113,Canned Tomatoes,Groceries,112,2025-03,2,277,No
+113,Canned Tomatoes,Groceries,124,2025-04,2,278,No
+113,Canned Tomatoes,Groceries,128,2025-05,1,246,Yes
+113,Canned Tomatoes,Groceries,121,2025-06,1,206,Yes
+114,Pasta Sauce,Groceries,57,2025-01,3,125,No
+114,Pasta Sauce,Groceries,54,2025-02,3,98,No
+114,Pasta Sauce,Groceries,70,2025-03,3,135,No
+114,Pasta Sauce,Groceries,67,2025-04,2,119,Yes
+114,Pasta Sauce,Groceries,69,2025-05,3,119,No
+114,Pasta Sauce,Groceries,67,2025-06,2,144,Yes
+115,Vegetable Broth,Groceries,181,2025-01,3,439,No
+115,Vegetable Broth,Groceries,191,2025-02,2,310,Yes
+115,Vegetable Broth,Groceries,193,2025-03,3,401,No
+115,Vegetable Broth,Groceries,180,2025-04,3,376,No
+115,Vegetable Broth,Groceries,174,2025-05,2,392,Yes
+115,Vegetable Broth,Groceries,181,2025-06,3,300,No
+116,Canned Beans,Groceries,151,2025-01,2,228,No
+116,Canned Beans,Groceries,139,2025-02,2,334,No
+116,Canned Beans,Groceries,157,2025-03,1,266,Yes
+116,Canned Beans,Groceries,138,2025-04,1,258,Yes
+116,Canned Beans,Groceries,158,2025-05,2,375,No
+116,Canned Beans,Groceries,139,2025-06,2,238,No
+117,Oatmeal,Groceries,162,2025-01,4,380,No
+117,Oatmeal,Groceries,172,2025-02,3,405,Yes
+117,Oatmeal,Groceries,169,2025-03,4,342,No
+117,Oatmeal,Groceries,164,2025-04,4,353,No
+117,Oatmeal,Groceries,169,2025-05,3,418,Yes
+117,Oatmeal,Groceries,158,2025-06,4,291,No
+118,Flour,Groceries,129,2025-01,3,264,No
+118,Flour,Groceries,148,2025-02,3,266,No
+118,Flour,Groceries,133,2025-03,2,313,Yes
+118,Flour,Groceries,133,2025-04,3,275,No
+118,Flour,Groceries,131,2025-05,2,232,Yes
+118,Flour,Groceries,146,2025-06,3,232,No
+119,Sugar,Groceries,98,2025-01,3,192,No
+119,Sugar,Groceries,100,2025-02,2,240,Yes
+119,Sugar,Groceries,92,2025-03,3,210,No
+119,Sugar,Groceries,102,2025-04,2,183,Yes
+119,Sugar,Groceries,100,2025-05,3,200,No
+119,Sugar,Groceries,99,2025-06,3,217,No
+120,Chocolate Chips,Groceries,132,2025-01,3,228,Yes
+120,Chocolate Chips,Groceries,128,2025-02,3,290,Yes
+120,Chocolate Chips,Groceries,119,2025-03,4,261,No
+120,Chocolate Chips,Groceries,117,2025-04,4,273,No
+120,Chocolate Chips,Groceries,117,2025-05,4,248,No
+120,Chocolate Chips,Groceries,131,2025-06,4,254,No
+121,Vanilla Extract,Groceries,118,2025-01,5,259,Yes
+121,Vanilla Extract,Groceries,104,2025-02,7,243,No
+121,Vanilla Extract,Groceries,109,2025-03,7,220,No
+121,Vanilla Extract,Groceries,100,2025-04,7,212,No
+121,Vanilla Extract,Groceries,103,2025-05,7,236,No
+121,Vanilla Extract,Groceries,115,2025-06,5,209,Yes
+122,Baking Soda,Groceries,136,2025-01,1,310,No
+122,Baking Soda,Groceries,135,2025-02,1,286,No
+122,Baking Soda,Groceries,140,2025-03,0,308,Yes
+122,Baking Soda,Groceries,142,2025-04,1,236,No
+122,Baking Soda,Groceries,138,2025-05,0,281,Yes
+122,Baking Soda,Groceries,144,2025-06,1,237,No
+123,Vinegar,Groceries,102,2025-01,2,196,No
+123,Vinegar,Groceries,109,2025-02,2,258,No
+123,Vinegar,Groceries,100,2025-03,1,158,Yes
+123,Vinegar,Groceries,105,2025-04,2,234,No
+123,Vinegar,Groceries,114,2025-05,1,284,Yes
+123,Vinegar,Groceries,114,2025-06,2,230,No
+124,Mustard,Groceries,144,2025-01,3,327,No
+124,Mustard,Groceries,163,2025-02,2,371,Yes
+124,Mustard,Groceries,145,2025-03,3,329,No
+124,Mustard,Groceries,162,2025-04,3,323,No
+124,Mustard,Groceries,149,2025-05,3,243,No
+124,Mustard,Groceries,163,2025-06,2,349,Yes
+125,Ketchup,Groceries,89,2025-01,3,182,No
+125,Ketchup,Groceries,91,2025-02,3,184,No
+125,Ketchup,Groceries,103,2025-03,3,246,No
+125,Ketchup,Groceries,104,2025-04,2,213,Yes
+125,Ketchup,Groceries,85,2025-05,2,164,Yes
+125,Ketchup,Groceries,93,2025-06,3,223,No
+126,Soy Sauce,Groceries,84,2025-01,3,193,Yes
+126,Soy Sauce,Groceries,82,2025-02,4,154,No
+126,Soy Sauce,Groceries,87,2025-03,4,131,No
+126,Soy Sauce,Groceries,100,2025-04,3,237,Yes
+126,Soy Sauce,Groceries,90,2025-05,4,142,No
+126,Soy Sauce,Groceries,90,2025-06,4,207,No
+127,Sesame Oil,Groceries,147,2025-01,5,358,No
+127,Sesame Oil,Groceries,143,2025-02,5,215,No
+127,Sesame Oil,Groceries,146,2025-03,4,320,Yes
+127,Sesame Oil,Groceries,151,2025-04,5,252,No
+127,Sesame Oil,Groceries,133,2025-05,4,315,Yes
+127,Sesame Oil,Groceries,144,2025-06,5,307,No
+128,Hot Sauce,Groceries,59,2025-01,4,95,No
+128,Hot Sauce,Groceries,54,2025-02,3,108,Yes
+128,Hot Sauce,Groceries,51,2025-03,4,109,No
+128,Hot Sauce,Groceries,50,2025-04,3,120,Yes
+128,Hot Sauce,Groceries,57,2025-05,4,115,No
+128,Hot Sauce,Groceries,50,2025-06,4,112,No
+129,Tahini,Groceries,127,2025-01,6,237,No
+129,Tahini,Groceries,130,2025-02,4,310,Yes
+129,Tahini,Groceries,119,2025-03,6,198,No
+129,Tahini,Groceries,116,2025-04,6,179,No
+129,Tahini,Groceries,126,2025-05,4,286,Yes
+129,Tahini,Groceries,118,2025-06,6,246,No
+130,Coconut Milk,Groceries,189,2025-01,3,336,No
+130,Coconut Milk,Groceries,186,2025-02,3,385,No
+130,Coconut Milk,Groceries,183,2025-03,2,308,Yes
+130,Coconut Milk,Groceries,184,2025-04,2,349,Yes
+130,Coconut Milk,Groceries,190,2025-05,3,359,No
+130,Coconut Milk,Groceries,197,2025-06,3,418,No
+131,Tomato Paste,Groceries,106,2025-01,1,180,Yes
+131,Tomato Paste,Groceries,90,2025-02,2,177,No
+131,Tomato Paste,Groceries,102,2025-03,2,174,No
+131,Tomato Paste,Groceries,105,2025-04,1,262,Yes
+131,Tomato Paste,Groceries,101,2025-05,2,198,No
+131,Tomato Paste,Groceries,102,2025-06,2,165,No
+132,Canned Tuna,Groceries,74,2025-01,3,148,No
+132,Canned Tuna,Groceries,78,2025-02,2,179,Yes
+132,Canned Tuna,Groceries,65,2025-03,2,154,Yes
+132,Canned Tuna,Groceries,72,2025-04,3,159,No
+132,Canned Tuna,Groceries,76,2025-05,3,144,No
+132,Canned Tuna,Groceries,75,2025-06,3,125,No
+133,Olives,Groceries,88,2025-01,3,134,Yes
+133,Olives,Groceries,75,2025-02,4,167,No
+133,Olives,Groceries,75,2025-03,4,175,No
+133,Olives,Groceries,74,2025-04,4,147,No
+133,Olives,Groceries,80,2025-05,4,166,No
+133,Olives,Groceries,86,2025-06,3,134,Yes
+134,Pickles,Groceries,95,2025-01,2,214,Yes
+134,Pickles,Groceries,87,2025-02,3,194,No
+134,Pickles,Groceries,99,2025-03,3,150,No
+134,Pickles,Groceries,82,2025-04,3,149,No
+134,Pickles,Groceries,82,2025-05,2,142,Yes
+134,Pickles,Groceries,89,2025-06,3,152,No
+135,Sun-Dried Tomatoes,Groceries,100,2025-01,5,218,No
+135,Sun-Dried Tomatoes,Groceries,87,2025-02,4,210,Yes
+135,Sun-Dried Tomatoes,Groceries,96,2025-03,5,211,No
+135,Sun-Dried Tomatoes,Groceries,98,2025-04,5,195,No
+135,Sun-Dried Tomatoes,Groceries,91,2025-05,5,198,No
+135,Sun-Dried Tomatoes,Groceries,94,2025-06,4,147,Yes
+136,Ballpoint Pens,Office Supplies,44,2025-01,4,67,Yes
+136,Ballpoint Pens,Office Supplies,32,2025-02,5,57,No
+136,Ballpoint Pens,Office Supplies,41,2025-03,5,81,No
+136,Ballpoint Pens,Office Supplies,36,2025-04,4,69,Yes
+136,Ballpoint Pens,Office Supplies,34,2025-05,5,44,No
+136,Ballpoint Pens,Office Supplies,42,2025-06,5,78,No
+137,Notebook,Office Supplies,142,2025-01,6,207,Yes
+137,Notebook,Office Supplies,142,2025-02,6,218,Yes
+137,Notebook,Office Supplies,138,2025-03,8,240,No
+137,Notebook,Office Supplies,143,2025-04,8,273,No
+137,Notebook,Office Supplies,134,2025-05,8,188,No
+137,Notebook,Office Supplies,146,2025-06,8,290,No
+138,Stapler,Office Supplies,134,2025-01,12,227,No
+138,Stapler,Office Supplies,129,2025-02,9,198,Yes
+138,Stapler,Office Supplies,146,2025-03,12,234,No
+138,Stapler,Office Supplies,145,2025-04,9,273,Yes
+138,Stapler,Office Supplies,134,2025-05,12,211,No
+138,Stapler,Office Supplies,144,2025-06,12,274,No
+139,Scissors,Office Supplies,133,2025-01,9,245,No
+139,Scissors,Office Supplies,128,2025-02,9,167,No
+139,Scissors,Office Supplies,129,2025-03,7,250,Yes
+139,Scissors,Office Supplies,118,2025-04,9,175,No
+139,Scissors,Office Supplies,127,2025-05,7,225,Yes
+139,Scissors,Office Supplies,118,2025-06,9,154,No
+140,Highlighters,Office Supplies,75,2025-01,4,143,No
+140,Highlighters,Office Supplies,85,2025-02,3,138,Yes
+140,Highlighters,Office Supplies,66,2025-03,4,123,No
+140,Highlighters,Office Supplies,76,2025-04,4,119,No
+140,Highlighters,Office Supplies,78,2025-05,3,108,Yes
+140,Highlighters,Office Supplies,77,2025-06,4,112,No
+141,Eraser,Office Supplies,34,2025-01,2,64,No
+141,Eraser,Office Supplies,33,2025-02,1,65,Yes
+141,Eraser,Office Supplies,37,2025-03,2,65,No
+141,Eraser,Office Supplies,48,2025-04,1,86,Yes
+141,Eraser,Office Supplies,52,2025-05,2,78,No
+141,Eraser,Office Supplies,43,2025-06,2,58,No
+142,Pencil Case,Office Supplies,92,2025-01,5,139,Yes
+142,Pencil Case,Office Supplies,86,2025-02,7,156,No
+142,Pencil Case,Office Supplies,98,2025-03,5,153,Yes
+142,Pencil Case,Office Supplies,96,2025-04,7,188,No
+142,Pencil Case,Office Supplies,99,2025-05,7,153,No
+142,Pencil Case,Office Supplies,91,2025-06,7,162,No
+143,Ruler,Office Supplies,123,2025-01,3,174,No
+143,Ruler,Office Supplies,131,2025-02,3,218,No
+143,Ruler,Office Supplies,119,2025-03,3,175,No
+143,Ruler,Office Supplies,121,2025-04,2,240,Yes
+143,Ruler,Office Supplies,130,2025-05,3,205,No
+143,Ruler,Office Supplies,121,2025-06,2,212,Yes
+144,Glue Stick,Office Supplies,51,2025-01,1,75,Yes
+144,Glue Stick,Office Supplies,46,2025-02,1,90,Yes
+144,Glue Stick,Office Supplies,37,2025-03,2,72,No
+144,Glue Stick,Office Supplies,37,2025-04,2,60,No
+144,Glue Stick,Office Supplies,48,2025-05,2,90,No
+144,Glue Stick,Office Supplies,49,2025-06,2,80,No
+145,Index Cards,Office Supplies,100,2025-01,3,164,No
+145,Index Cards,Office Supplies,86,2025-02,2,161,Yes
+145,Index Cards,Office Supplies,103,2025-03,2,168,Yes
+145,Index Cards,Office Supplies,95,2025-04,3,125,No
+145,Index Cards,Office Supplies,104,2025-05,3,175,No
+145,Index Cards,Office Supplies,105,2025-06,3,194,No
+146,Binder Clips,Office Supplies,60,2025-01,4,102,No
+146,Binder Clips,Office Supplies,52,2025-02,3,88,Yes
+146,Binder Clips,Office Supplies,64,2025-03,4,99,No
+146,Binder Clips,Office Supplies,49,2025-04,4,81,No
+146,Binder Clips,Office Supplies,64,2025-05,4,85,No
+146,Binder Clips,Office Supplies,60,2025-06,3,86,Yes
+147,Push Pins,Office Supplies,110,2025-01,2,211,No
+147,Push Pins,Office Supplies,117,2025-02,2,187,No
+147,Push Pins,Office Supplies,98,2025-03,1,138,Yes
+147,Push Pins,Office Supplies,108,2025-04,2,207,No
+147,Push Pins,Office Supplies,106,2025-05,1,142,Yes
+147,Push Pins,Office Supplies,103,2025-06,2,156,No
+148,Tape Dispenser,Office Supplies,135,2025-01,8,261,No
+148,Tape Dispenser,Office Supplies,126,2025-02,8,212,No
+148,Tape Dispenser,Office Supplies,135,2025-03,6,238,Yes
+148,Tape Dispenser,Office Supplies,131,2025-04,6,257,Yes
+148,Tape Dispenser,Office Supplies,133,2025-05,8,240,No
+148,Tape Dispenser,Office Supplies,137,2025-06,8,249,No
+149,Whiteboard Markers,Office Supplies,82,2025-01,6,134,No
+149,Whiteboard Markers,Office Supplies,92,2025-02,4,170,Yes
+149,Whiteboard Markers,Office Supplies,80,2025-03,6,128,No
+149,Whiteboard Markers,Office Supplies,94,2025-04,4,129,Yes
+149,Whiteboard Markers,Office Supplies,90,2025-05,6,160,No
+149,Whiteboard Markers,Office Supplies,89,2025-06,6,155,No
+150,Correction Tape,Office Supplies,148,2025-01,2,262,Yes
+150,Correction Tape,Office Supplies,135,2025-02,2,189,Yes
+150,Correction Tape,Office Supplies,140,2025-03,3,182,No
+150,Correction Tape,Office Supplies,139,2025-04,3,206,No
+150,Correction Tape,Office Supplies,137,2025-05,3,264,No
+150,Correction Tape,Office Supplies,132,2025-06,3,211,No
+151,Hole Punch,Office Supplies,93,2025-01,10,123,No
+151,Hole Punch,Office Supplies,74,2025-02,10,140,No
+151,Hole Punch,Office Supplies,90,2025-03,8,178,Yes
+151,Hole Punch,Office Supplies,86,2025-04,10,122,No
+151,Hole Punch,Office Supplies,94,2025-05,8,128,Yes
+151,Hole Punch,Office Supplies,75,2025-06,10,125,No
+152,Paper Clips,Office Supplies,36,2025-01,0,49,Yes
+152,Paper Clips,Office Supplies,37,2025-02,1,53,No
+152,Paper Clips,Office Supplies,41,2025-03,1,57,No
+152,Paper Clips,Office Supplies,51,2025-04,1,83,No
+152,Paper Clips,Office Supplies,50,2025-05,0,88,Yes
+152,Paper Clips,Office Supplies,56,2025-06,1,98,No
+153,Sticky Notes,Office Supplies,41,2025-01,2,56,Yes
+153,Sticky Notes,Office Supplies,36,2025-02,3,46,No
+153,Sticky Notes,Office Supplies,36,2025-03,2,60,Yes
+153,Sticky Notes,Office Supplies,43,2025-04,3,76,No
+153,Sticky Notes,Office Supplies,35,2025-05,3,49,No
+153,Sticky Notes,Office Supplies,40,2025-06,3,70,No
+154,Sketchbook,Office Supplies,39,2025-01,7,51,Yes
+154,Sketchbook,Office Supplies,35,2025-02,9,62,No
+154,Sketchbook,Office Supplies,45,2025-03,9,60,No
+154,Sketchbook,Office Supplies,38,2025-04,9,53,No
+154,Sketchbook,Office Supplies,50,2025-05,7,90,Yes
+154,Sketchbook,Office Supplies,46,2025-06,9,76,No
+155,Watercolors,Office Supplies,59,2025-01,12,77,No
+155,Watercolors,Office Supplies,53,2025-02,12,84,No
+155,Watercolors,Office Supplies,44,2025-03,12,87,No
+155,Watercolors,Office Supplies,58,2025-04,12,99,No
+155,Watercolors,Office Supplies,46,2025-05,9,86,Yes
+155,Watercolors,Office Supplies,44,2025-06,9,70,Yes
+156,Calligraphy Pen,Office Supplies,92,2025-01,15,164,No
+156,Calligraphy Pen,Office Supplies,91,2025-02,12,129,Yes
+156,Calligraphy Pen,Office Supplies,106,2025-03,12,206,Yes
+156,Calligraphy Pen,Office Supplies,90,2025-04,15,152,No
+156,Calligraphy Pen,Office Supplies,94,2025-05,15,152,No
+156,Calligraphy Pen,Office Supplies,100,2025-06,15,149,No
+157,Graph Paper,Office Supplies,67,2025-01,5,126,No
+157,Graph Paper,Office Supplies,82,2025-02,5,137,No
+157,Graph Paper,Office Supplies,70,2025-03,4,111,Yes
+157,Graph Paper,Office Supplies,74,2025-04,4,133,Yes
+157,Graph Paper,Office Supplies,81,2025-05,5,122,No
+157,Graph Paper,Office Supplies,68,2025-06,5,89,No
+158,Portfolio,Office Supplies,79,2025-01,12,155,No
+158,Portfolio,Office Supplies,87,2025-02,9,162,Yes
+158,Portfolio,Office Supplies,87,2025-03,9,119,Yes
+158,Portfolio,Office Supplies,83,2025-04,12,147,No
+158,Portfolio,Office Supplies,89,2025-05,12,168,No
+158,Portfolio,Office Supplies,83,2025-06,12,123,No
+159,Bookmarks,Office Supplies,44,2025-01,1,84,Yes
+159,Bookmarks,Office Supplies,52,2025-02,1,83,Yes
+159,Bookmarks,Office Supplies,46,2025-03,2,66,No
+159,Bookmarks,Office Supplies,44,2025-04,2,65,No
+159,Bookmarks,Office Supplies,43,2025-05,2,76,No
+159,Bookmarks,Office Supplies,55,2025-06,2,71,No
+160,Label Maker,Office Supplies,47,2025-01,20,80,Yes
+160,Label Maker,Office Supplies,46,2025-02,20,86,Yes
+160,Label Maker,Office Supplies,43,2025-03,25,75,No
+160,Label Maker,Office Supplies,47,2025-04,25,89,No
+160,Label Maker,Office Supplies,35,2025-05,25,61,No
+160,Label Maker,Office Supplies,38,2025-06,25,50,No
+161,Desk Organizer,Office Supplies,122,2025-01,14,225,Yes
+161,Desk Organizer,Office Supplies,123,2025-02,18,216,No
+161,Desk Organizer,Office Supplies,122,2025-03,18,193,No
+161,Desk Organizer,Office Supplies,131,2025-04,18,229,No
+161,Desk Organizer,Office Supplies,122,2025-05,18,226,No
+161,Desk Organizer,Office Supplies,131,2025-06,14,227,Yes
+162,Calculator,Office Supplies,119,2025-01,15,217,No
+162,Calculator,Office Supplies,118,2025-02,15,227,No
+162,Calculator,Office Supplies,118,2025-03,12,186,Yes
+162,Calculator,Office Supplies,116,2025-04,15,155,No
+162,Calculator,Office Supplies,118,2025-05,15,194,No
+162,Calculator,Office Supplies,111,2025-06,12,216,Yes
+163,Planner,Office Supplies,150,2025-01,12,297,No
+163,Planner,Office Supplies,150,2025-02,9,199,Yes
+163,Planner,Office Supplies,139,2025-03,12,266,No
+163,Planner,Office Supplies,144,2025-04,9,192,Yes
+163,Planner,Office Supplies,147,2025-05,12,261,No
+163,Planner,Office Supplies,150,2025-06,12,270,No
+164,Calendar,Office Supplies,30,2025-01,10,58,No
+164,Calendar,Office Supplies,30,2025-02,10,48,No
+164,Calendar,Office Supplies,42,2025-03,10,69,No
+164,Calendar,Office Supplies,33,2025-04,8,46,Yes
+164,Calendar,Office Supplies,40,2025-05,8,64,Yes
+164,Calendar,Office Supplies,30,2025-06,10,40,No
+165,Fountain Pen,Office Supplies,111,2025-01,25,167,No
+165,Fountain Pen,Office Supplies,113,2025-02,20,206,Yes
+165,Fountain Pen,Office Supplies,111,2025-03,25,166,No
+165,Fountain Pen,Office Supplies,106,2025-04,25,152,No
+165,Fountain Pen,Office Supplies,122,2025-05,25,202,No
+165,Fountain Pen,Office Supplies,105,2025-06,20,161,Yes
+166,Markers,Office Supplies,91,2025-01,8,168,No
+166,Markers,Office Supplies,93,2025-02,8,159,No
+166,Markers,Office Supplies,87,2025-03,8,155,No
+166,Markers,Office Supplies,85,2025-04,8,124,No
+166,Markers,Office Supplies,91,2025-05,6,178,Yes
+166,Markers,Office Supplies,99,2025-06,6,145,Yes
+167,Colored Pencils,Office Supplies,49,2025-01,5,70,Yes
+167,Colored Pencils,Office Supplies,51,2025-02,7,80,No
+167,Colored Pencils,Office Supplies,62,2025-03,7,117,No
+167,Colored Pencils,Office Supplies,49,2025-04,5,79,Yes
+167,Colored Pencils,Office Supplies,48,2025-05,7,71,No
+167,Colored Pencils,Office Supplies,45,2025-06,7,69,No
+168,Crayons,Office Supplies,127,2025-01,3,181,Yes
+168,Crayons,Office Supplies,127,2025-02,4,170,No
+168,Crayons,Office Supplies,134,2025-03,4,190,No
+168,Crayons,Office Supplies,139,2025-04,3,263,Yes
+168,Crayons,Office Supplies,146,2025-05,4,211,No
+168,Crayons,Office Supplies,131,2025-06,4,203,No
+169,Chalk,Office Supplies,84,2025-01,3,131,No
+169,Chalk,Office Supplies,79,2025-02,3,122,No
+169,Chalk,Office Supplies,86,2025-03,2,143,Yes
+169,Chalk,Office Supplies,81,2025-04,3,140,No
+169,Chalk,Office Supplies,76,2025-05,3,119,No
+169,Chalk,Office Supplies,71,2025-06,2,131,Yes
+170,Rubber Bands,Office Supplies,132,2025-01,1,219,No
+170,Rubber Bands,Office Supplies,137,2025-02,1,258,No
+170,Rubber Bands,Office Supplies,135,2025-03,0,231,Yes
+170,Rubber Bands,Office Supplies,138,2025-04,1,215,No
+170,Rubber Bands,Office Supplies,121,2025-05,0,232,Yes
+170,Rubber Bands,Office Supplies,138,2025-06,1,200,No
+171,Letter Opener,Office Supplies,49,2025-01,4,72,Yes
+171,Letter Opener,Office Supplies,57,2025-02,5,85,No
+171,Letter Opener,Office Supplies,60,2025-03,4,106,Yes
+171,Letter Opener,Office Supplies,40,2025-04,5,58,No
+171,Letter Opener,Office Supplies,41,2025-05,5,67,No
+171,Letter Opener,Office Supplies,41,2025-06,5,60,No
+172,Paper Shredder,Office Supplies,62,2025-01,45,105,No
+172,Paper Shredder,Office Supplies,74,2025-02,45,101,No
+172,Paper Shredder,Office Supplies,59,2025-03,36,96,Yes
+172,Paper Shredder,Office Supplies,60,2025-04,45,91,No
+172,Paper Shredder,Office Supplies,71,2025-05,45,112,No
+172,Paper Shredder,Office Supplies,57,2025-06,36,83,Yes
+173,Laminator,Office Supplies,118,2025-01,28,169,Yes
+173,Laminator,Office Supplies,103,2025-02,35,152,No
+173,Laminator,Office Supplies,114,2025-03,35,210,No
+173,Laminator,Office Supplies,102,2025-04,35,165,No
+173,Laminator,Office Supplies,104,2025-05,35,141,No
+173,Laminator,Office Supplies,105,2025-06,28,196,Yes
+174,Whiteboard,Office Supplies,116,2025-01,39,221,Yes
+174,Whiteboard,Office Supplies,124,2025-02,49,227,No
+174,Whiteboard,Office Supplies,117,2025-03,49,199,No
+174,Whiteboard,Office Supplies,112,2025-04,39,204,Yes
+174,Whiteboard,Office Supplies,115,2025-05,49,187,No
+174,Whiteboard,Office Supplies,112,2025-06,49,165,No
+175,Bulletin Board,Office Supplies,119,2025-01,23,217,Yes
+175,Bulletin Board,Office Supplies,111,2025-02,29,165,No
+175,Bulletin Board,Office Supplies,107,2025-03,29,158,No
+175,Bulletin Board,Office Supplies,120,2025-04,29,174,No
+175,Bulletin Board,Office Supplies,106,2025-05,23,187,Yes
+175,Bulletin Board,Office Supplies,122,2025-06,29,161,No
+176,File Folders,Office Supplies,116,2025-01,6,226,No
+176,File Folders,Office Supplies,125,2025-02,6,171,No
+176,File Folders,Office Supplies,123,2025-03,6,205,No
+176,File Folders,Office Supplies,117,2025-04,4,179,Yes
+176,File Folders,Office Supplies,108,2025-05,6,162,No
+176,File Folders,Office Supplies,112,2025-06,4,214,Yes
+177,Hanging Files,Office Supplies,150,2025-01,8,238,No
+177,Hanging Files,Office Supplies,148,2025-02,8,234,No
+177,Hanging Files,Office Supplies,150,2025-03,8,271,No
+177,Hanging Files,Office Supplies,150,2025-04,8,263,No
+177,Hanging Files,Office Supplies,150,2025-05,6,207,Yes
+177,Hanging Files,Office Supplies,150,2025-06,6,280,Yes
+178,Sheet Protectors,Office Supplies,37,2025-01,4,70,Yes
+178,Sheet Protectors,Office Supplies,43,2025-02,5,67,No
+178,Sheet Protectors,Office Supplies,40,2025-03,5,65,No
+178,Sheet Protectors,Office Supplies,43,2025-04,5,66,No
+178,Sheet Protectors,Office Supplies,34,2025-05,4,61,Yes
+178,Sheet Protectors,Office Supplies,45,2025-06,5,71,No
+179,Business Cards,Office Supplies,89,2025-01,15,139,No
+179,Business Cards,Office Supplies,94,2025-02,12,178,Yes
+179,Business Cards,Office Supplies,98,2025-03,15,157,No
+179,Business Cards,Office Supplies,99,2025-04,15,183,No
+179,Business Cards,Office Supplies,97,2025-05,15,154,No
+179,Business Cards,Office Supplies,87,2025-06,12,136,Yes
+180,Envelopes,Office Supplies,32,2025-01,4,54,No
+180,Envelopes,Office Supplies,35,2025-02,4,63,No
+180,Envelopes,Office Supplies,39,2025-03,4,58,No
+180,Envelopes,Office Supplies,30,2025-04,4,53,No
+180,Envelopes,Office Supplies,34,2025-05,3,64,Yes
+180,Envelopes,Office Supplies,33,2025-06,3,58,Yes
+181,Yoga Mat,Fitness Equipment,36,2025-01,20,55,Yes
+181,Yoga Mat,Fitness Equipment,40,2025-02,20,50,Yes
+181,Yoga Mat,Fitness Equipment,40,2025-03,25,60,No
+181,Yoga Mat,Fitness Equipment,38,2025-04,25,64,No
+181,Yoga Mat,Fitness Equipment,40,2025-05,25,60,No
+181,Yoga Mat,Fitness Equipment,32,2025-06,25,53,No
+182,Dumbbells,Fitness Equipment,33,2025-01,45,56,No
+182,Dumbbells,Fitness Equipment,26,2025-02,45,40,No
+182,Dumbbells,Fitness Equipment,15,2025-03,45,23,No
+182,Dumbbells,Fitness Equipment,23,2025-04,36,29,Yes
+182,Dumbbells,Fitness Equipment,18,2025-05,45,24,No
+182,Dumbbells,Fitness Equipment,32,2025-06,36,41,Yes
+183,Resistance Bands,Fitness Equipment,35,2025-01,15,49,No
+183,Resistance Bands,Fitness Equipment,34,2025-02,12,53,Yes
+183,Resistance Bands,Fitness Equipment,31,2025-03,15,46,No
+183,Resistance Bands,Fitness Equipment,40,2025-04,15,56,No
+183,Resistance Bands,Fitness Equipment,28,2025-05,15,41,No
+183,Resistance Bands,Fitness Equipment,34,2025-06,12,56,Yes
+184,Jump Rope,Fitness Equipment,5,2025-01,10,7,No
+184,Jump Rope,Fitness Equipment,11,2025-02,8,17,Yes
+184,Jump Rope,Fitness Equipment,17,2025-03,8,24,Yes
+184,Jump Rope,Fitness Equipment,14,2025-04,10,19,No
+184,Jump Rope,Fitness Equipment,5,2025-05,10,8,No
+184,Jump Rope,Fitness Equipment,5,2025-06,10,7,No
+185,Foam Roller,Fitness Equipment,14,2025-01,20,20,Yes
+185,Foam Roller,Fitness Equipment,23,2025-02,25,37,No
+185,Foam Roller,Fitness Equipment,15,2025-03,25,18,No
+185,Foam Roller,Fitness Equipment,10,2025-04,25,13,No
+185,Foam Roller,Fitness Equipment,15,2025-05,20,24,Yes
+185,Foam Roller,Fitness Equipment,9,2025-06,25,15,No
+186,Kettlebell,Fitness Equipment,40,2025-01,65,53,No
+186,Kettlebell,Fitness Equipment,31,2025-02,65,41,No
+186,Kettlebell,Fitness Equipment,39,2025-03,65,54,No
+186,Kettlebell,Fitness Equipment,40,2025-04,52,51,Yes
+186,Kettlebell,Fitness Equipment,27,2025-05,52,37,Yes
+186,Kettlebell,Fitness Equipment,40,2025-06,65,51,No
+187,Exercise Ball,Fitness Equipment,10,2025-01,35,15,No
+187,Exercise Ball,Fitness Equipment,18,2025-02,35,22,No
+187,Exercise Ball,Fitness Equipment,28,2025-03,28,44,Yes
+187,Exercise Ball,Fitness Equipment,15,2025-04,35,21,No
+187,Exercise Ball,Fitness Equipment,23,2025-05,35,29,No
+187,Exercise Ball,Fitness Equipment,13,2025-06,28,21,Yes
+188,Pull-Up Bar,Fitness Equipment,28,2025-01,36,34,Yes
+188,Pull-Up Bar,Fitness Equipment,19,2025-02,45,31,No
+188,Pull-Up Bar,Fitness Equipment,24,2025-03,45,29,No
+188,Pull-Up Bar,Fitness Equipment,35,2025-04,45,51,No
+188,Pull-Up Bar,Fitness Equipment,25,2025-05,36,32,Yes
+188,Pull-Up Bar,Fitness Equipment,36,2025-06,45,44,No
+189,Yoga Blocks,Fitness Equipment,13,2025-01,20,21,No
+189,Yoga Blocks,Fitness Equipment,5,2025-02,16,6,Yes
+189,Yoga Blocks,Fitness Equipment,6,2025-03,20,7,No
+189,Yoga Blocks,Fitness Equipment,5,2025-04,20,6,No
+189,Yoga Blocks,Fitness Equipment,14,2025-05,16,19,Yes
+189,Yoga Blocks,Fitness Equipment,7,2025-06,20,9,No
+190,Pilates Ring,Fitness Equipment,5,2025-01,24,7,Yes
+190,Pilates Ring,Fitness Equipment,6,2025-02,30,8,No
+190,Pilates Ring,Fitness Equipment,11,2025-03,30,13,No
+190,Pilates Ring,Fitness Equipment,5,2025-04,24,6,Yes
+190,Pilates Ring,Fitness Equipment,13,2025-05,30,21,No
+190,Pilates Ring,Fitness Equipment,11,2025-06,30,15,No
+191,Massage Gun,Fitness Equipment,21,2025-01,99,29,No
+191,Massage Gun,Fitness Equipment,35,2025-02,79,44,Yes
+191,Massage Gun,Fitness Equipment,34,2025-03,99,54,No
+191,Massage Gun,Fitness Equipment,32,2025-04,99,46,No
+191,Massage Gun,Fitness Equipment,27,2025-05,79,41,Yes
+191,Massage Gun,Fitness Equipment,31,2025-06,99,43,No
+192,Weight Bench,Fitness Equipment,34,2025-01,149,57,No
+192,Weight Bench,Fitness Equipment,31,2025-02,149,52,No
+192,Weight Bench,Fitness Equipment,32,2025-03,149,52,No
+192,Weight Bench,Fitness Equipment,28,2025-04,119,46,Yes
+192,Weight Bench,Fitness Equipment,35,2025-05,119,51,Yes
+192,Weight Bench,Fitness Equipment,27,2025-06,149,40,No
+193,Treadmill,Fitness Equipment,26,2025-01,399,43,No
+193,Treadmill,Fitness Equipment,26,2025-02,399,42,No
+193,Treadmill,Fitness Equipment,40,2025-03,399,63,No
+193,Treadmill,Fitness Equipment,33,2025-04,319,53,Yes
+193,Treadmill,Fitness Equipment,31,2025-05,319,40,Yes
+193,Treadmill,Fitness Equipment,27,2025-06,399,41,No
+194,Exercise Bike,Fitness Equipment,27,2025-01,299,35,No
+194,Exercise Bike,Fitness Equipment,17,2025-02,299,22,No
+194,Exercise Bike,Fitness Equipment,30,2025-03,299,36,No
+194,Exercise Bike,Fitness Equipment,22,2025-04,239,36,Yes
+194,Exercise Bike,Fitness Equipment,25,2025-05,299,38,No
+194,Exercise Bike,Fitness Equipment,24,2025-06,239,36,Yes
+195,Elliptical,Fitness Equipment,9,2025-01,499,11,No
+195,Elliptical,Fitness Equipment,15,2025-02,499,23,No
+195,Elliptical,Fitness Equipment,27,2025-03,499,36,No
+195,Elliptical,Fitness Equipment,14,2025-04,399,22,Yes
+195,Elliptical,Fitness Equipment,10,2025-05,499,15,No
+195,Elliptical,Fitness Equipment,13,2025-06,399,16,Yes
+196,Rowing Machine,Fitness Equipment,40,2025-01,349,62,No
+196,Rowing Machine,Fitness Equipment,40,2025-02,349,50,No
+196,Rowing Machine,Fitness Equipment,25,2025-03,349,30,No
+196,Rowing Machine,Fitness Equipment,39,2025-04,279,61,Yes
+196,Rowing Machine,Fitness Equipment,40,2025-05,349,56,No
+196,Rowing Machine,Fitness Equipment,31,2025-06,279,52,Yes
+197,Punching Bag,Fitness Equipment,19,2025-01,129,27,No
+197,Punching Bag,Fitness Equipment,5,2025-02,129,7,No
+197,Punching Bag,Fitness Equipment,5,2025-03,129,7,No
+197,Punching Bag,Fitness Equipment,22,2025-04,103,37,Yes
+197,Punching Bag,Fitness Equipment,15,2025-05,129,21,No
+197,Punching Bag,Fitness Equipment,15,2025-06,103,21,Yes
+198,Boxing Gloves,Fitness Equipment,5,2025-01,45,7,No
+198,Boxing Gloves,Fitness Equipment,9,2025-02,36,15,Yes
+198,Boxing Gloves,Fitness Equipment,6,2025-03,45,8,No
+198,Boxing Gloves,Fitness Equipment,5,2025-04,45,7,No
+198,Boxing Gloves,Fitness Equipment,16,2025-05,36,20,Yes
+198,Boxing Gloves,Fitness Equipment,9,2025-06,45,11,No
+199,Weight Vest,Fitness Equipment,33,2025-01,89,52,No
+199,Weight Vest,Fitness Equipment,31,2025-02,89,37,No
+199,Weight Vest,Fitness Equipment,39,2025-03,89,60,No
+199,Weight Vest,Fitness Equipment,30,2025-04,71,43,Yes
+199,Weight Vest,Fitness Equipment,38,2025-05,89,47,No
+199,Weight Vest,Fitness Equipment,28,2025-06,71,34,Yes
+200,Ankle Weights,Fitness Equipment,13,2025-01,28,21,Yes
+200,Ankle Weights,Fitness Equipment,12,2025-02,35,14,No
+200,Ankle Weights,Fitness Equipment,18,2025-03,28,30,Yes
+200,Ankle Weights,Fitness Equipment,24,2025-04,35,33,No
+200,Ankle Weights,Fitness Equipment,20,2025-05,35,28,No
+200,Ankle Weights,Fitness Equipment,24,2025-06,35,31,No
+201,Gym Bag,Fitness Equipment,9,2025-01,31,13,Yes
+201,Gym Bag,Fitness Equipment,10,2025-02,39,16,No
+201,Gym Bag,Fitness Equipment,17,2025-03,39,23,No
+201,Gym Bag,Fitness Equipment,8,2025-04,39,10,No
+201,Gym Bag,Fitness Equipment,20,2025-05,31,33,Yes
+201,Gym Bag,Fitness Equipment,17,2025-06,39,28,No
+202,Water Bottle,Fitness Equipment,23,2025-01,12,37,Yes
+202,Water Bottle,Fitness Equipment,26,2025-02,15,42,No
+202,Water Bottle,Fitness Equipment,21,2025-03,15,27,No
+202,Water Bottle,Fitness Equipment,30,2025-04,12,39,Yes
+202,Water Bottle,Fitness Equipment,24,2025-05,15,30,No
+202,Water Bottle,Fitness Equipment,24,2025-06,15,34,No
+203,Fitness Tracker,Fitness Equipment,35,2025-01,79,53,No
+203,Fitness Tracker,Fitness Equipment,36,2025-02,79,60,No
+203,Fitness Tracker,Fitness Equipment,31,2025-03,79,43,No
+203,Fitness Tracker,Fitness Equipment,35,2025-04,63,49,Yes
+203,Fitness Tracker,Fitness Equipment,40,2025-05,79,54,No
+203,Fitness Tracker,Fitness Equipment,39,2025-06,63,48,Yes
+204,Heart Rate Monitor,Fitness Equipment,20,2025-01,59,29,No
+204,Heart Rate Monitor,Fitness Equipment,17,2025-02,59,28,No
+204,Heart Rate Monitor,Fitness Equipment,18,2025-03,47,22,Yes
+204,Heart Rate Monitor,Fitness Equipment,35,2025-04,59,56,No
+204,Heart Rate Monitor,Fitness Equipment,29,2025-05,59,49,No
+204,Heart Rate Monitor,Fitness Equipment,15,2025-06,47,18,Yes
+205,Gym Towel,Fitness Equipment,40,2025-01,12,56,No
+205,Gym Towel,Fitness Equipment,30,2025-02,12,49,No
+205,Gym Towel,Fitness Equipment,34,2025-03,12,55,No
+205,Gym Towel,Fitness Equipment,39,2025-04,9,53,Yes
+205,Gym Towel,Fitness Equipment,37,2025-05,9,54,Yes
+205,Gym Towel,Fitness Equipment,26,2025-06,12,42,No
+206,Skipping Rope,Fitness Equipment,5,2025-01,8,8,No
+206,Skipping Rope,Fitness Equipment,15,2025-02,8,20,No
+206,Skipping Rope,Fitness Equipment,16,2025-03,6,20,Yes
+206,Skipping Rope,Fitness Equipment,5,2025-04,6,8,Yes
+206,Skipping Rope,Fitness Equipment,15,2025-05,8,22,No
+206,Skipping Rope,Fitness Equipment,9,2025-06,8,14,No
+207,Workout Gloves,Fitness Equipment,5,2025-01,18,6,No
+207,Workout Gloves,Fitness Equipment,8,2025-02,14,12,Yes
+207,Workout Gloves,Fitness Equipment,5,2025-03,18,7,No
+207,Workout Gloves,Fitness Equipment,14,2025-04,18,20,No
+207,Workout Gloves,Fitness Equipment,16,2025-05,18,22,No
+207,Workout Gloves,Fitness Equipment,8,2025-06,14,10,Yes
+208,Headband,Fitness Equipment,32,2025-01,4,49,Yes
+208,Headband,Fitness Equipment,38,2025-02,4,60,Yes
+208,Headband,Fitness Equipment,30,2025-03,6,47,No
+208,Headband,Fitness Equipment,40,2025-04,6,52,No
+208,Headband,Fitness Equipment,40,2025-05,6,57,No
+208,Headband,Fitness Equipment,31,2025-06,6,49,No
+209,Armband,Fitness Equipment,12,2025-01,8,20,Yes
+209,Armband,Fitness Equipment,23,2025-02,10,28,No
+209,Armband,Fitness Equipment,21,2025-03,10,30,No
+209,Armband,Fitness Equipment,6,2025-04,10,9,No
+209,Armband,Fitness Equipment,18,2025-05,10,25,No
+209,Armband,Fitness Equipment,7,2025-06,8,8,Yes
+210,Sports Bra,Fitness Equipment,6,2025-01,25,8,No
+210,Sports Bra,Fitness Equipment,21,2025-02,25,26,No
+210,Sports Bra,Fitness Equipment,9,2025-03,20,13,Yes
+210,Sports Bra,Fitness Equipment,20,2025-04,20,25,Yes
+210,Sports Bra,Fitness Equipment,13,2025-05,25,21,No
+210,Sports Bra,Fitness Equipment,5,2025-06,25,7,No
+211,Running Shorts,Fitness Equipment,28,2025-01,17,38,Yes
+211,Running Shorts,Fitness Equipment,18,2025-02,22,23,No
+211,Running Shorts,Fitness Equipment,30,2025-03,22,46,No
+211,Running Shorts,Fitness Equipment,15,2025-04,22,20,No
+211,Running Shorts,Fitness Equipment,19,2025-05,17,24,Yes
+211,Running Shorts,Fitness Equipment,13,2025-06,22,19,No
+212,Compression Socks,Fitness Equipment,6,2025-01,15,8,No
+212,Compression Socks,Fitness Equipment,11,2025-02,15,13,No
+212,Compression Socks,Fitness Equipment,11,2025-03,12,16,Yes
+212,Compression Socks,Fitness Equipment,9,2025-04,12,14,Yes
+212,Compression Socks,Fitness Equipment,19,2025-05,15,23,No
+212,Compression Socks,Fitness Equipment,22,2025-06,15,36,No
+213,Swim Goggles,Fitness Equipment,25,2025-01,19,34,No
+213,Swim Goggles,Fitness Equipment,31,2025-02,19,39,No
+213,Swim Goggles,Fitness Equipment,21,2025-03,15,30,Yes
+213,Swim Goggles,Fitness Equipment,38,2025-04,19,48,No
+213,Swim Goggles,Fitness Equipment,33,2025-05,19,53,No
+213,Swim Goggles,Fitness Equipment,21,2025-06,15,32,Yes
+214,Yoga Towel,Fitness Equipment,13,2025-01,18,18,No
+214,Yoga Towel,Fitness Equipment,10,2025-02,18,12,No
+214,Yoga Towel,Fitness Equipment,10,2025-03,18,15,No
+214,Yoga Towel,Fitness Equipment,6,2025-04,14,8,Yes
+214,Yoga Towel,Fitness Equipment,17,2025-05,14,22,Yes
+214,Yoga Towel,Fitness Equipment,12,2025-06,18,19,No
+215,Punching Mitts,Fitness Equipment,19,2025-01,20,31,Yes
+215,Punching Mitts,Fitness Equipment,5,2025-02,25,6,No
+215,Punching Mitts,Fitness Equipment,17,2025-03,25,28,No
+215,Punching Mitts,Fitness Equipment,5,2025-04,20,7,Yes
+215,Punching Mitts,Fitness Equipment,6,2025-05,25,9,No
+215,Punching Mitts,Fitness Equipment,19,2025-06,25,31,No
+216,Battle Rope,Fitness Equipment,34,2025-01,45,49,No
+216,Battle Rope,Fitness Equipment,18,2025-02,45,30,No
+216,Battle Rope,Fitness Equipment,24,2025-03,36,38,Yes
+216,Battle Rope,Fitness Equipment,32,2025-04,45,51,No
+216,Battle Rope,Fitness Equipment,27,2025-05,45,43,No
+216,Battle Rope,Fitness Equipment,24,2025-06,36,37,Yes
+217,Slant Board,Fitness Equipment,34,2025-01,35,49,No
+217,Slant Board,Fitness Equipment,40,2025-02,35,50,No
+217,Slant Board,Fitness Equipment,38,2025-03,28,56,Yes
+217,Slant Board,Fitness Equipment,31,2025-04,28,48,Yes
+217,Slant Board,Fitness Equipment,28,2025-05,35,36,No
+217,Slant Board,Fitness Equipment,40,2025-06,35,51,No
+218,Ab Roller,Fitness Equipment,25,2025-01,25,37,No
+218,Ab Roller,Fitness Equipment,38,2025-02,20,57,Yes
+218,Ab Roller,Fitness Equipment,38,2025-03,25,57,No
+218,Ab Roller,Fitness Equipment,20,2025-04,20,26,Yes
+218,Ab Roller,Fitness Equipment,31,2025-05,25,51,No
+218,Ab Roller,Fitness Equipment,28,2025-06,25,43,No
+219,Gymnastic Rings,Fitness Equipment,31,2025-01,44,43,Yes
+219,Gymnastic Rings,Fitness Equipment,36,2025-02,55,48,No
+219,Gymnastic Rings,Fitness Equipment,31,2025-03,55,46,No
+219,Gymnastic Rings,Fitness Equipment,31,2025-04,44,42,Yes
+219,Gymnastic Rings,Fitness Equipment,23,2025-05,55,30,No
+219,Gymnastic Rings,Fitness Equipment,26,2025-06,55,41,No
+220,Parallettes,Fitness Equipment,5,2025-01,45,7,No
+220,Parallettes,Fitness Equipment,14,2025-02,45,21,No
+220,Parallettes,Fitness Equipment,5,2025-03,36,7,Yes
+220,Parallettes,Fitness Equipment,13,2025-04,45,21,No
+220,Parallettes,Fitness Equipment,14,2025-05,45,17,No
+220,Parallettes,Fitness Equipment,6,2025-06,36,9,Yes
+221,Weight Plates,Fitness Equipment,5,2025-01,65,7,No
+221,Weight Plates,Fitness Equipment,12,2025-02,52,14,Yes
+221,Weight Plates,Fitness Equipment,13,2025-03,65,16,No
+221,Weight Plates,Fitness Equipment,5,2025-04,65,7,No
+221,Weight Plates,Fitness Equipment,5,2025-05,65,8,No
+221,Weight Plates,Fitness Equipment,8,2025-06,52,10,Yes
+222,Barbell,Fitness Equipment,31,2025-01,68,43,Yes
+222,Barbell,Fitness Equipment,23,2025-02,85,34,No
+222,Barbell,Fitness Equipment,21,2025-03,85,27,No
+222,Barbell,Fitness Equipment,35,2025-04,68,46,Yes
+222,Barbell,Fitness Equipment,39,2025-05,85,61,No
+222,Barbell,Fitness Equipment,28,2025-06,85,40,No
+223,Medicine Ball,Fitness Equipment,40,2025-01,45,48,No
+223,Medicine Ball,Fitness Equipment,39,2025-02,45,49,No
+223,Medicine Ball,Fitness Equipment,33,2025-03,36,48,Yes
+223,Medicine Ball,Fitness Equipment,36,2025-04,45,57,No
+223,Medicine Ball,Fitness Equipment,40,2025-05,45,54,No
+223,Medicine Ball,Fitness Equipment,33,2025-06,36,41,Yes
+224,Agility Ladder,Fitness Equipment,27,2025-01,35,37,No
+224,Agility Ladder,Fitness Equipment,13,2025-02,28,16,Yes
+224,Agility Ladder,Fitness Equipment,10,2025-03,35,12,No
+224,Agility Ladder,Fitness Equipment,19,2025-04,35,30,No
+224,Agility Ladder,Fitness Equipment,13,2025-05,28,20,Yes
+224,Agility Ladder,Fitness Equipment,12,2025-06,35,18,No

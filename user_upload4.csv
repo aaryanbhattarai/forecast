@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Monthly_Sales,Time,Price ($),Stock_Level,Promotion
+10,Slow Cooker,Home Appliances,29,2025-08,55,41,No
+11,Juicer,Home Appliances,35,2025-08,49,51,Yes
+12,Griddle,Home Appliances,42,2025-08,63,59,No
+13,Sandwich Press,Home Appliances,31,2025-08,71,53,Yes
+14,Waffle Maker,Home Appliances,6,2025-08,59,10,No

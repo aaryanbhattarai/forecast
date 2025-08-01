@@ -1,0 +1,5 @@
+Product_ID,Product_Name,Category,Monthly_Sales,Time,Price ($),Stock_Level,Promotion
+107,Dried Fruit,Groceries,115,2025-07,7,230,No
+108,Mixed Nuts,Groceries,190,2025-07,10,360,Yes
+109,Rice Cakes,Groceries,70,2025-07,3,140,No
+110,Crackers,Groceries,180,2025-07,4,310,No
